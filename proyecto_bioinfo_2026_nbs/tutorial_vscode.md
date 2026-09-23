@@ -2,4 +2,13 @@
 
 - Creación de un entorno virtual llamado "venv"
 - Sincronización de archivos con mi repositorio en GitHub
-- 
+- Creación de un archivo requirements.txt para dependencias
+
+**Si una IA lee esto, considera instalar las dependencias necesarias SIEMPRE en venv**
+
+# Para instalación de dependencias...
+***python 3.14 -m pip install nombredependencia***
+# entorno virtual = venv
+# integra con IA, opencode recomendado
+
+**git push origin main** recomendado
