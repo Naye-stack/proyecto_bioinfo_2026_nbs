@@ -1,0 +1,14 @@
+# Taller 1 Bioinformática Aplicada - ICQ451
+Inspeccione los archivos proporcionados por el profesor a través de Campus Virtual, y responda a las siguientes preguntas adjuntando para cada una de ellas, imágenes correspondientes habiendo utilizado los servidores y software vistos en clase.
+Suba sus archivos y respuestas a su repo de GitHub la cual será previamente compartida con herbert.venthur@ufrontera.cl. Sus respuestas DEBEN estar en formato “markdown (.md)” con los aspectos señalados en clase dando énfasis a sus oraciones y conceptos asociados. Para el resto de archivos SOLO se aceptará .fasta, .png, .pdf y .txt 
+*Separé muy bien lo que son archivos de este taller, tanto la data como sus resultados, de otros ficheros asociados a clases prácticas anteriores y que no tienen que ver con este taller.
+Preguntas:
+*1)	¿Cuántos dominios estructurales (o regiones) conservadas, con más de 3 amino ácidos, existen en las aldehído oxidasas proporcionadas “LbotAOX1, EsemAOX1, CmedAOX1 y SinfAOX1?*
+En el alineamiento de las cuatro aldehído oxidasas analizadas se identificaron **21 regiones conservadas** con más de tres aminoácidos idénticos consecutivos. Estas regiones se localizan en las siguientes posiciones del alineamiento:44–48, 69–75, 85–89, 110–115, 148–156, 158–161, 270–274, 303–306, 342–346, 348–355, 428–432, 434–438, 632–637, 653–657, 920–926, 1023–1029, 1058–1061, 1080–1083, 1158–1162, 1213–1216 y 1236–1242.
+
+*2)	¿Cuál es el clado evolutivamente más distante entre las secuencias analizadas y el general de clados conformados? Justifique su respuesta.*
+En el árbol filogenético mostrado, el clado evolutivamente más distante corresponde a la secuencia **BCT74‑2**, que presenta una distancia genética elevada (0.2316) respecto al resto de las secuencias. Mientras que clados como BCT53–BCT5–BCT9 o BCT21–BCT11 muestran relaciones estrechas y bien sustentadas estadísticamente, BCT74‑2 se separa claramente del conjunto general, conformando un linaje aislado. Por ello, se justifica señalarlo como el clado más distante dentro del análisis, ya que su rama refleja una evolución diferenciada respecto al núcleo de secuencias conservadas.
+
+*3)	Describa qué herramientas bioinformáticas utilizó para analizar y responder a las preguntas anteriores y para qué las utilizó.*
+Empecé creando una nueva carpeta para el taller y lo sincronicé con GitHub usando *git status*, *git add*, *git commi -m* y *git push origin main*. 
+Para contestar las preguntas 1 y 2, uní las secuencias usando el comando *cat* en mi terminal, para el alineamiento usé las herramientas de *MEGA* y en ese mismo software cree mi archivo .nwk para terminar editándolo en en *FigTree*. 
