@@ -1,0 +1,13 @@
+{
+	"n_targets": 956,
+	"n_bootstraps": 0,
+	"n_processed": 10000,
+	"n_pseudoaligned": 5213,
+	"n_unique": 5103,
+	"p_pseudoaligned": 52.1,
+	"p_unique": 51.0,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Thu Oct 15 01:47:33 2026",
+	"call": "kallisto quant -i transcripts.idx -o wt49_out -b 100 /mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582649_1.fastq /mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582649_2.fastq"
+}

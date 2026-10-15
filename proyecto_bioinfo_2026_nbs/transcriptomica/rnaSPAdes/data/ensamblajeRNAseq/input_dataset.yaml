@@ -1,0 +1,16 @@
+- "left reads":
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582646_1.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582647_1.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582648_1.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582649_1.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582650_1.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582651_1.fastq"
+  "orientation": "fr"
+  "right reads":
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582646_2.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582647_2.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/GSNO_SRR1582648_2.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582649_2.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582650_2.fastq"
+  - "/mnt/c/Users/Usuario/OneDrive/Documentos/BioinfAp/proyecto_bioinfo_2026_nbs/transcriptomica/rnaSPAdes/data/wt_SRR1582651_2.fastq"
+  "type": "paired-end"
