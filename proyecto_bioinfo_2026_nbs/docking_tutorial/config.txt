@@ -1,0 +1,15 @@
+receptor = LbotA.pdbqt
+ligand = hexanal.pdbqt
+
+center_x = 26.875
+center_y = -8.162
+center_z = -7.627
+
+size_x = 22  
+size_y = 22
+size_z = 22
+
+exhaustiveness = 8
+
+out = tutorial_out.pdbqt
+
